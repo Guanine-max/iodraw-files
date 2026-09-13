@@ -31,10 +31,7 @@
           <mxGeometry x="-2050" y="-693.7777777777778" width="103" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-33" value="访问25个测站并扫描频道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="-623.9977777777779" width="237" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-34" value="near：原地清除&#xa;direction：更新候选区&#xa;no_signal：继续搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="-754" width="221" height="84" as="geometry" />
+          <mxGeometry x="-2050" y="-623.9977777777779" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-35" value="全局扫描完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1189" y="-752.2291666666667" width="150" height="150" as="geometry" />
@@ -78,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-44" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0.66;entryY=0.98;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-35" target="bfDFxBEZSb8S5ojCDjbd-33">
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-44" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0.66;entryY=0.98;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-34" target="bfDFxBEZSb8S5ojCDjbd-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1201" y="-642.2291666666667" />
@@ -147,6 +144,16 @@
               <mxPoint x="-761" y="-627.6875" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0.66;entryY=0.98;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-35" target="bfDFxBEZSb8S5ojCDjbd-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-1081" y="-719" as="sourcePoint" />
+            <mxPoint x="-1892" y="-575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-34" value="near：原地清除&#xa;direction：更新候选区&#xa;no_signal：继续搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1750" y="-686" width="221" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
