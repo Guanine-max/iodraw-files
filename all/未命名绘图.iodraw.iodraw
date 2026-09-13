@@ -31,7 +31,7 @@
           <mxGeometry x="-2050" y="-693.7777777777778" width="103" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-33" value="访问25个测站并扫描频道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1847" y="-701.2777777777778" width="237" height="49" as="geometry" />
+          <mxGeometry x="-2010" y="-623.9977777777779" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-34" value="near：原地清除&#xa;direction：更新候选区&#xa;no_signal：继续搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="-754" width="221" height="84" as="geometry" />
