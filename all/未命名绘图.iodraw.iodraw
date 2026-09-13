@@ -49,7 +49,7 @@
           <mxGeometry x="-2050" y="-623.9977777777779" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-35" value="全局扫描完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="-724.9991666666667" width="150" height="150" as="geometry" />
+          <mxGeometry x="-1520" y="-740.9991666666667" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-36" value="还有未清除目标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="-713" width="150" height="153" as="geometry" />
@@ -65,13 +65,6 @@
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-540" width="172" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.985;exitY=0.842;entryX=0.315;entryY=0.171;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-34" target="bfDFxBEZSb8S5ojCDjbd-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1520" y="-624" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-45" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-35" target="bfDFxBEZSb8S5ojCDjbd-36">
           <mxGeometry relative="1" as="geometry">
