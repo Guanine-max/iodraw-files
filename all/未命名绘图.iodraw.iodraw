@@ -54,14 +54,6 @@
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-540" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.881;exitY=0.031;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-33" target="bfDFxBEZSb8S5ojCDjbd-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1870" y="-740" />
-              <mxPoint x="-1700" y="-730" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.985;exitY=0.842;entryX=0.315;entryY=0.171;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-34" target="bfDFxBEZSb8S5ojCDjbd-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
