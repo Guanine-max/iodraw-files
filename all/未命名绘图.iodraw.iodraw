@@ -100,8 +100,8 @@
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-39" value="距离上界≤19.5 m?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="-504.25" width="161" height="154.5" as="geometry" />
         </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底&#xa;成功则判断目标是否已完全清除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1813" y="-460" width="172" height="66" as="geometry" />
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底&#xa;成功则判断目标是否已完全清除" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1880" y="-460" width="239" height="66" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-45" value="是" style="curved=1;startArrow=none;endArrow=classic;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" target="bfDFxBEZSb8S5ojCDjbd-36">
           <mxGeometry relative="1" as="geometry">
