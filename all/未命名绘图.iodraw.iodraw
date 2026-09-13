@@ -28,7 +28,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-32" value="进入模拟器" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2050" y="-693.7777777777778" width="103" height="34" as="geometry" />
+          <mxGeometry x="-2050" y="-727.7777777777778" width="103" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-33" value="访问25个测站并扫描频道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="-623.9977777777779" width="237" height="49" as="geometry" />
@@ -50,14 +50,6 @@
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-540" width="172" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-32" target="bfDFxBEZSb8S5ojCDjbd-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1935" y="-676.7777777777778" />
-              <mxPoint x="-1859" y="-676.7777777777778" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.881;exitY=0.031;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-33" target="bfDFxBEZSb8S5ojCDjbd-34">
           <mxGeometry relative="1" as="geometry">
