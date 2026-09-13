@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-34" value="near：原地清除&#xa;direction：更新候选区&#xa;no_signal：继续搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1780" y="-686" width="221" height="84" as="geometry" />
+          <mxGeometry x="-1800" y="-708" width="221" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
