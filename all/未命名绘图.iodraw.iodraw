@@ -34,7 +34,7 @@
         <mxCell id="XXmJtjOpQ28i2TOThu2H-10" value="原地清除" style="whiteSpace=wrap;html=1;fillColor=#d4e3fe;strokeColor=#001e57;rounded=1;glass=0;strokeWidth=5;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="368.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XXmJtjOpQ28i2TOThu2H-12" value="" style="whiteSpace=wrap;html=1;fillColor=#d4e3fe;strokeColor=#001e57;rounded=1;glass=0;strokeWidth=5;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XXmJtjOpQ28i2TOThu2H-12" value="更新目标候选区域" style="whiteSpace=wrap;html=1;fillColor=#d4e3fe;strokeColor=#001e57;rounded=1;glass=0;strokeWidth=5;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1010" y="576.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
