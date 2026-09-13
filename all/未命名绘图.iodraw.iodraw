@@ -66,12 +66,13 @@
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-540" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-45" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-35" target="bfDFxBEZSb8S5ojCDjbd-36">
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-45" value="是" style="curved=1;startArrow=none;endArrow=classic;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" target="bfDFxBEZSb8S5ojCDjbd-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="-1370" y="-666" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-61" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;shadow=0;glass=0;strokeColor=#001e57;strokeWidth=5;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#d4e3fe;" vertex="1" connectable="0" parent="bfDFxBEZSb8S5ojCDjbd-45">
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-61" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;shadow=0;glass=0;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#d4e3fe;" vertex="1" connectable="0" parent="bfDFxBEZSb8S5ojCDjbd-45">
           <mxGeometry x="0.4936" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
