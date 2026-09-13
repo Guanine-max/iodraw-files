@@ -40,7 +40,7 @@
           <mxGeometry x="-1400" y="-713" width="150" height="153" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-37" value="全部清除并退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="-708" width="135" height="34" as="geometry" />
+          <mxGeometry x="-1180" y="-727.78" width="135" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-38" value="选择最近目标并进行两点二分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-673" y="-713" width="252" height="66" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1210" y="-700" />
-              <mxPoint x="-1240" y="-700" />
+              <mxPoint x="-1220" y="-700" />
             </Array>
           </mxGeometry>
         </mxCell>
