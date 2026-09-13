@@ -88,7 +88,7 @@
           <mxGeometry x="-1579" y="-504.25" width="160" height="154.5" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1917" y="-349.75" width="172" height="66" as="geometry" />
+          <mxGeometry x="-1813" y="-470" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-45" value="是" style="curved=1;startArrow=none;endArrow=classic;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;noEdgeStyle=1;orthogonal=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" target="bfDFxBEZSb8S5ojCDjbd-36">
           <mxGeometry relative="1" as="geometry">
