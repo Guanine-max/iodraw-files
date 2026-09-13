@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-68" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;shadow=0;glass=0;strokeColor=#001e57;strokeWidth=5;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#d4e3fe;" vertex="1" connectable="0" parent="bfDFxBEZSb8S5ojCDjbd-67">
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-68" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;shadow=0;glass=0;strokeColor=#001e57;strokeWidth=5;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#d4e3fe;" vertex="1" connectable="0" parent="bfDFxBEZSb8S5ojCDjbd-67">
           <mxGeometry x="-0.0786" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
