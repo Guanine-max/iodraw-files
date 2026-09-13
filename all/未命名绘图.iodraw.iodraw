@@ -16,8 +16,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;沿双环网格访问25个测站&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=5;shadow=0;strokeColor=#001e57;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d4e3fe;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="570" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XXmJtjOpQ28i2TOThu2H-16" value="距离较近的检测交集能否安全清除？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d4e3fe;strokeColor=#001e57;rounded=1;glass=0;strokeWidth=5;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="565" width="130" height="155" as="geometry" />
+        <mxCell id="XXmJtjOpQ28i2TOThu2H-16" value="干扰源能否正常清除" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d4e3fe;strokeColor=#001e57;rounded=1;glass=0;strokeWidth=5;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="527.5" width="130" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
