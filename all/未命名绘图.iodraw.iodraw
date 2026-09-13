@@ -37,7 +37,7 @@
           <mxGeometry x="-1579" y="-646.9991666666667" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-36" value="还有未清除目标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1360" y="-646.9975" width="166" height="166" as="geometry" />
+          <mxGeometry x="-1400" y="-662.9975" width="166" height="166" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-37" value="全部清除并退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-614.5" y="-777" width="135" height="34" as="geometry" />
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1410" y="-580" />
-              <mxPoint x="-951" y="-679.6875" />
+              <mxPoint x="-1330" y="-610" />
               <mxPoint x="-1370" y="-630" />
             </Array>
           </mxGeometry>
