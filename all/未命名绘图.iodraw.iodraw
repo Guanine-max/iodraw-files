@@ -27,8 +27,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-56" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-32" target="bfDFxBEZSb8S5ojCDjbd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-32" value="进入模拟器" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2050" y="-727.7777777777778" width="103" height="34" as="geometry" />
+          <mxGeometry x="-2050" y="-727.78" width="103" height="37.78" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-33" value="访问25个测站并扫描频道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="-623.9977777777779" width="237" height="49" as="geometry" />
