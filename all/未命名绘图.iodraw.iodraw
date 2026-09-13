@@ -51,8 +51,11 @@
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-35" value="全局扫描完成?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="-740.9991666666667" width="150" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-62" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="bfDFxBEZSb8S5ojCDjbd-36" target="bfDFxBEZSb8S5ojCDjbd-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-36" value="还有未清除目标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="-742.5" width="150" height="153" as="geometry" />
+          <mxGeometry x="-1300" y="-742.5" width="150" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-37" value="全部清除并退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1110" y="-808.5" width="135" height="34" as="geometry" />
