@@ -37,7 +37,7 @@
           <mxGeometry x="-1579" y="-646.9991666666667" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-36" value="还有未清除目标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-939" y="-762.6875" width="166" height="166" as="geometry" />
+          <mxGeometry x="-1360" y="-646.9975" width="166" height="166" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-37" value="全部清除并退出" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-614.5" y="-777" width="135" height="34" as="geometry" />
@@ -146,8 +146,8 @@
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-34" value="near：原地清除&#xa;direction：更新候选区&#xa;no_signal：继续搜索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1800" y="-708" width="221" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="bfDFxBEZSb8S5ojCDjbd-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1730" y="-552" width="40" height="30" as="geometry" />
+        <mxCell id="bfDFxBEZSb8S5ojCDjbd-53" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1725" y="-552" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
