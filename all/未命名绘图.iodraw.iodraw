@@ -66,7 +66,7 @@
           <mxGeometry x="-1110" y="-808.5" width="135" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-38" value="选择最近目标并进行两点二分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1351" y="-510" width="252" height="66" as="geometry" />
+          <mxGeometry x="-1351" y="-460" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-39" value="距离上界≤19.5 m?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1543" y="-444" width="173" height="155" as="geometry" />
