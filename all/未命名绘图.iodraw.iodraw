@@ -69,7 +69,7 @@
           <mxGeometry x="-1351" y="-460" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-39" value="距离上界≤19.5 m?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1543" y="-444" width="173" height="155" as="geometry" />
+          <mxGeometry x="-1579" y="-504.25" width="160" height="154.5" as="geometry" />
         </mxCell>
         <mxCell id="bfDFxBEZSb8S5ojCDjbd-40" value="执行清除&#xa;失败则点阵兜底" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-540" width="172" height="66" as="geometry" />
